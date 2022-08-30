@@ -1,0 +1,19 @@
+
+.conteudo{
+    display: block;
+    text-align: center;
+    margin-top: 300px;
+}
+.botao{
+    border: 3px solid #2f3542;
+    padding: 15px;
+    background: #ced6e0;
+}
+.botao:hover{
+    background: #aaa69d;
+    
+}
+h1, p{
+    text-align: center;
+    margin-top: 50px;
+}
